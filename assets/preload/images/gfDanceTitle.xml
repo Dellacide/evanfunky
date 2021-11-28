@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfDanceTitle.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Evan Boppin0000" x="10" y="10" width="677" height="604"/>
+	<SubTexture name="Evan Boppin0001" x="10" y="10" width="677" height="604"/>
+	<SubTexture name="Evan Boppin0002" x="697" y="10" width="677" height="604"/>
+	<SubTexture name="Evan Boppin0003" x="697" y="10" width="677" height="604"/>
+	<SubTexture name="Evan Boppin0004" x="10" y="624" width="677" height="604"/>
+	<SubTexture name="Evan Boppin0005" x="10" y="624" width="677" height="604"/>
+	<SubTexture name="Evan Boppin0006" x="697" y="624" width="677" height="604"/>
+	<SubTexture name="Evan Boppin0007" x="697" y="624" width="677" height="604"/>
+	<SubTexture name="Evan Boppin0008" x="10" y="1238" width="677" height="604"/>
+	<SubTexture name="Evan Boppin0009" x="10" y="1238" width="677" height="604"/>
+	<SubTexture name="Evan Boppin0010" x="697" y="1238" width="677" height="604"/>
+	<SubTexture name="Evan Boppin0011" x="697" y="1238" width="677" height="604"/>
+	<SubTexture name="Evan Boppin0012" x="697" y="1238" width="677" height="604"/>
+	<SubTexture name="Evan Boppin0013" x="697" y="1238" width="677" height="604"/>
+	<SubTexture name="Evan Boppin0014" x="697" y="1238" width="677" height="604"/>
+	<SubTexture name="Evan Boppin0015" x="697" y="1238" width="677" height="604"/>
+</TextureAtlas>

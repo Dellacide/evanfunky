@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				93,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Evan idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				90,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sync",
+			"loop": false,
+			"name": "Evan Song 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/evantubesong1",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "evan",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		62,
+		226
+	],
+	"camera_position": [
+		-150,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

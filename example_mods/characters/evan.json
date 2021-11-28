@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				13,
+				-150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Evan idle dance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				31,
+				-150
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Evan Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				-210
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Evan Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				44,
+				-120
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Evan Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				-150
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Evan Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-140
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Evan HEY!",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Evan_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "evan",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		62,
+		226
+	],
+	"camera_position": [
+		-150,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

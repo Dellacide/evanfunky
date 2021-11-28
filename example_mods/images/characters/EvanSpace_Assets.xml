@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EvanSpace_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Evan Sing Note DOWN0000" x="10" y="10" width="382" height="572" frameX="0" frameY="-12" frameWidth="392" frameHeight="586"/>
+	<SubTexture name="Evan Sing Note DOWN0001" x="10" y="10" width="382" height="572" frameX="0" frameY="-12" frameWidth="392" frameHeight="586"/>
+	<SubTexture name="Evan Sing Note DOWN0002" x="402" y="10" width="387" height="586" frameX="-5" frameY="0" frameWidth="392" frameHeight="586"/>
+	<SubTexture name="Evan Sing Note DOWN0003" x="402" y="10" width="387" height="586" frameX="-5" frameY="0" frameWidth="392" frameHeight="586"/>
+	<SubTexture name="Evan Sing Note DOWN0004" x="402" y="10" width="387" height="586" frameX="-5" frameY="0" frameWidth="392" frameHeight="586"/>
+	<SubTexture name="Evan Sing Note DOWN0005" x="402" y="10" width="387" height="586" frameX="-5" frameY="0" frameWidth="392" frameHeight="586"/>
+	<SubTexture name="Evan Sing Note DOWN0006" x="402" y="10" width="387" height="586" frameX="-5" frameY="0" frameWidth="392" frameHeight="586"/>
+	<SubTexture name="Evan Sing Note DOWN0007" x="402" y="10" width="387" height="586" frameX="-5" frameY="0" frameWidth="392" frameHeight="586"/>
+	<SubTexture name="Evan Sing Note DOWN0008" x="402" y="10" width="387" height="586" frameX="-5" frameY="0" frameWidth="392" frameHeight="586"/>
+	<SubTexture name="Evan Sing Note DOWN0009" x="402" y="10" width="387" height="586" frameX="-5" frameY="0" frameWidth="392" frameHeight="586"/>
+	<SubTexture name="Evan Sing Note DOWN0010" x="402" y="10" width="387" height="586" frameX="-5" frameY="0" frameWidth="392" frameHeight="586"/>
+	<SubTexture name="Evan Sing Note DOWN0011" x="402" y="10" width="387" height="586" frameX="-5" frameY="0" frameWidth="392" frameHeight="586"/>
+	<SubTexture name="Evan Sing Note DOWN0012" x="402" y="10" width="387" height="586" frameX="-5" frameY="0" frameWidth="392" frameHeight="586"/>
+	<SubTexture name="Evan Sing Note DOWN0013" x="402" y="10" width="387" height="586" frameX="-5" frameY="0" frameWidth="392" frameHeight="586"/>
+	<SubTexture name="Evan Sing Note LEFT0000" x="799" y="10" width="354" height="638" frameX="0" frameY="0" frameWidth="368" frameHeight="638"/>
+	<SubTexture name="Evan Sing Note LEFT0001" x="799" y="10" width="354" height="638" frameX="0" frameY="0" frameWidth="368" frameHeight="638"/>
+	<SubTexture name="Evan Sing Note LEFT0002" x="1163" y="10" width="357" height="638" frameX="-11" frameY="0" frameWidth="368" frameHeight="638"/>
+	<SubTexture name="Evan Sing Note LEFT0003" x="1163" y="10" width="357" height="638" frameX="-11" frameY="0" frameWidth="368" frameHeight="638"/>
+	<SubTexture name="Evan Sing Note LEFT0004" x="1163" y="10" width="357" height="638" frameX="-11" frameY="0" frameWidth="368" frameHeight="638"/>
+	<SubTexture name="Evan Sing Note LEFT0005" x="1163" y="10" width="357" height="638" frameX="-11" frameY="0" frameWidth="368" frameHeight="638"/>
+	<SubTexture name="Evan Sing Note LEFT0006" x="1163" y="10" width="357" height="638" frameX="-11" frameY="0" frameWidth="368" frameHeight="638"/>
+	<SubTexture name="Evan Sing Note LEFT0007" x="1163" y="10" width="357" height="638" frameX="-11" frameY="0" frameWidth="368" frameHeight="638"/>
+	<SubTexture name="Evan Sing Note LEFT0008" x="1163" y="10" width="357" height="638" frameX="-11" frameY="0" frameWidth="368" frameHeight="638"/>
+	<SubTexture name="Evan Sing Note LEFT0009" x="1163" y="10" width="357" height="638" frameX="-11" frameY="0" frameWidth="368" frameHeight="638"/>
+	<SubTexture name="Evan Sing Note LEFT0010" x="1163" y="10" width="357" height="638" frameX="-11" frameY="0" frameWidth="368" frameHeight="638"/>
+	<SubTexture name="Evan Sing Note LEFT0011" x="1163" y="10" width="357" height="638" frameX="-11" frameY="0" frameWidth="368" frameHeight="638"/>
+	<SubTexture name="Evan Sing Note LEFT0012" x="1163" y="10" width="357" height="638" frameX="-11" frameY="0" frameWidth="368" frameHeight="638"/>
+	<SubTexture name="Evan Sing Note LEFT0013" x="1163" y="10" width="357" height="638" frameX="-11" frameY="0" frameWidth="368" frameHeight="638"/>
+	<SubTexture name="Evan Sing Note RIGHT0000" x="1530" y="10" width="385" height="628" frameX="0" frameY="-9" frameWidth="385" frameHeight="637"/>
+	<SubTexture name="Evan Sing Note RIGHT0001" x="1530" y="10" width="385" height="628" frameX="0" frameY="-9" frameWidth="385" frameHeight="637"/>
+	<SubTexture name="Evan Sing Note RIGHT0002" x="10" y="658" width="378" height="637" frameX="0" frameY="0" frameWidth="385" frameHeight="637"/>
+	<SubTexture name="Evan Sing Note RIGHT0003" x="10" y="658" width="378" height="637" frameX="0" frameY="0" frameWidth="385" frameHeight="637"/>
+	<SubTexture name="Evan Sing Note RIGHT0004" x="10" y="658" width="378" height="637" frameX="0" frameY="0" frameWidth="385" frameHeight="637"/>
+	<SubTexture name="Evan Sing Note RIGHT0005" x="10" y="658" width="378" height="637" frameX="0" frameY="0" frameWidth="385" frameHeight="637"/>
+	<SubTexture name="Evan Sing Note RIGHT0006" x="10" y="658" width="378" height="637" frameX="0" frameY="0" frameWidth="385" frameHeight="637"/>
+	<SubTexture name="Evan Sing Note RIGHT0007" x="10" y="658" width="378" height="637" frameX="0" frameY="0" frameWidth="385" frameHeight="637"/>
+	<SubTexture name="Evan Sing Note RIGHT0008" x="10" y="658" width="378" height="637" frameX="0" frameY="0" frameWidth="385" frameHeight="637"/>
+	<SubTexture name="Evan Sing Note RIGHT0009" x="10" y="658" width="378" height="637" frameX="0" frameY="0" frameWidth="385" frameHeight="637"/>
+	<SubTexture name="Evan Sing Note RIGHT0010" x="10" y="658" width="378" height="637" frameX="0" frameY="0" frameWidth="385" frameHeight="637"/>
+	<SubTexture name="Evan Sing Note RIGHT0011" x="10" y="658" width="378" height="637" frameX="0" frameY="0" frameWidth="385" frameHeight="637"/>
+	<SubTexture name="Evan Sing Note RIGHT0012" x="10" y="658" width="378" height="637" frameX="0" frameY="0" frameWidth="385" frameHeight="637"/>
+	<SubTexture name="Evan Sing Note RIGHT0013" x="10" y="658" width="378" height="637" frameX="0" frameY="0" frameWidth="385" frameHeight="637"/>
+	<SubTexture name="Evan Sing Note UP0000" x="398" y="658" width="338" height="667"/>
+	<SubTexture name="Evan Sing Note UP0001" x="398" y="658" width="338" height="667"/>
+	<SubTexture name="Evan Sing Note UP0002" x="746" y="658" width="334" height="656" frameX="-1" frameY="-11" frameWidth="338" frameHeight="667"/>
+	<SubTexture name="Evan Sing Note UP0003" x="746" y="658" width="334" height="656" frameX="-1" frameY="-11" frameWidth="338" frameHeight="667"/>
+	<SubTexture name="Evan Sing Note UP0004" x="746" y="658" width="334" height="656" frameX="-1" frameY="-11" frameWidth="338" frameHeight="667"/>
+	<SubTexture name="Evan Sing Note UP0005" x="746" y="658" width="334" height="656" frameX="-1" frameY="-11" frameWidth="338" frameHeight="667"/>
+	<SubTexture name="Evan Sing Note UP0006" x="746" y="658" width="334" height="656" frameX="-1" frameY="-11" frameWidth="338" frameHeight="667"/>
+	<SubTexture name="Evan Sing Note UP0007" x="746" y="658" width="334" height="656" frameX="-1" frameY="-11" frameWidth="338" frameHeight="667"/>
+	<SubTexture name="Evan Sing Note UP0008" x="746" y="658" width="334" height="656" frameX="-1" frameY="-11" frameWidth="338" frameHeight="667"/>
+	<SubTexture name="Evan Sing Note UP0009" x="746" y="658" width="334" height="656" frameX="-1" frameY="-11" frameWidth="338" frameHeight="667"/>
+	<SubTexture name="Evan Sing Note UP0010" x="746" y="658" width="334" height="656" frameX="-1" frameY="-11" frameWidth="338" frameHeight="667"/>
+	<SubTexture name="Evan Sing Note UP0011" x="746" y="658" width="334" height="656" frameX="-1" frameY="-11" frameWidth="338" frameHeight="667"/>
+	<SubTexture name="Evan Sing Note UP0012" x="746" y="658" width="334" height="656" frameX="-1" frameY="-11" frameWidth="338" frameHeight="667"/>
+	<SubTexture name="Evan Sing Note UP0013" x="746" y="658" width="334" height="656" frameX="-1" frameY="-11" frameWidth="338" frameHeight="667"/>
+	<SubTexture name="Evan idle dance0000" x="1090" y="658" width="385" height="601" frameX="0" frameY="-30" frameWidth="394" frameHeight="640"/>
+	<SubTexture name="Evan idle dance0001" x="1090" y="658" width="385" height="601" frameX="0" frameY="-30" frameWidth="394" frameHeight="640"/>
+	<SubTexture name="Evan idle dance0002" x="1485" y="658" width="384" height="616" frameX="-2" frameY="-20" frameWidth="394" frameHeight="640"/>
+	<SubTexture name="Evan idle dance0003" x="1485" y="658" width="384" height="616" frameX="-2" frameY="-20" frameWidth="394" frameHeight="640"/>
+	<SubTexture name="Evan idle dance0004" x="10" y="1335" width="383" height="629" frameX="-8" frameY="-11" frameWidth="394" frameHeight="640"/>
+	<SubTexture name="Evan idle dance0005" x="10" y="1335" width="383" height="629" frameX="-8" frameY="-11" frameWidth="394" frameHeight="640"/>
+	<SubTexture name="Evan idle dance0006" x="403" y="1335" width="376" height="636" frameX="-15" frameY="-3" frameWidth="394" frameHeight="640"/>
+	<SubTexture name="Evan idle dance0007" x="403" y="1335" width="376" height="636" frameX="-15" frameY="-3" frameWidth="394" frameHeight="640"/>
+	<SubTexture name="Evan idle dance0008" x="789" y="1335" width="379" height="639" frameX="-15" frameY="0" frameWidth="394" frameHeight="640"/>
+	<SubTexture name="Evan idle dance0009" x="789" y="1335" width="379" height="639" frameX="-15" frameY="0" frameWidth="394" frameHeight="640"/>
+	<SubTexture name="Evan idle dance0010" x="789" y="1335" width="379" height="639" frameX="-15" frameY="0" frameWidth="394" frameHeight="640"/>
+	<SubTexture name="Evan idle dance0011" x="789" y="1335" width="379" height="639" frameX="-15" frameY="0" frameWidth="394" frameHeight="640"/>
+	<SubTexture name="Evan idle dance0012" x="789" y="1335" width="379" height="639" frameX="-15" frameY="0" frameWidth="394" frameHeight="640"/>
+	<SubTexture name="Evan idle dance0013" x="789" y="1335" width="379" height="639" frameX="-15" frameY="0" frameWidth="394" frameHeight="640"/>
+</TextureAtlas>
